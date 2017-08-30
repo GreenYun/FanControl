@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">风扇遥控</string>
+  <string name="bluetooth_device_error_msg">
+    蓝牙设备可能出现问题\n<!--
+    -->请检查蓝牙设备
+  </string>
+  <string name="bluetooth_device_error_title">蓝牙设备</string>
+  <string name="bluetooth_required_msg">
+    蓝牙遥控需要使用蓝牙\n<!--
+    -->请打开蓝牙开关
+  </string>
+  <string name="bluetooth_required_title">打开蓝牙</string>
+  <string name="btn_ok">确定</string>
+  <string name="connection_failed_msg">
+    已连接蓝牙设备
+  </string>
+  <string name="connection_failed_title">连接失败</string>
+  <string name="switch_bluetooth">蓝牙</string>
+  <string name="text_bt_off">
+    点选上面开关打开蓝牙
+  </string>
+  <string name="text_device_selected">已选择： %s .</string>
+  <string name="tips_am">自动/手动</string>
+  <string name="tips_device_list">可用设备</string>
+  <string name="tips_down">降档/角度检测</string>
+  <string name="tips_refresh">刷新</string>
+  <string name="tips_scanning">扫描中</string>
+  <string name="tips_speed">转速\n</string>
+  <string name="tips_temp">温度\n</string>
+  <string name="tips_up">升档/温度感应</string>
+</resources>

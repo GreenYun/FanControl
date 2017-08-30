@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Fan Control</string>
+  <string name="bluetooth_device_error_msg">
+    Bluetooth device is not working properly.\n<!--
+    -->Please check your bluetooth device!
+  </string>
+  <string name="bluetooth_device_error_title">Bluetooth Device</string>
+  <string name="bluetooth_required_msg">
+    Bluetooth is required for communicating with the IntelFan.\n<!--
+    -->Please turn Bluetooth on.
+  </string>
+  <string name="bluetooth_required_title">Bluetooth Required</string>
+  <string name="btn_ok">OK</string>
+  <string name="connection_failed_msg">
+    The selected device could not be connected.
+  </string>
+  <string name="connection_failed_title">Connection Failed</string>
+  <string name="switch_bluetooth">Bluetooth</string>
+  <string name="text_bt_off">
+    Please click the switch above to turn Bluetooth on and continue.
+  </string>
+  <string name="text_device_selected">Device selected : %s .</string>
+  <string name="tips_am">AUTO/MANUAL</string>
+  <string name="tips_device_list">AVAILABLE DEVICES</string>
+  <string name="tips_down">DOWN/ANGLE</string>
+  <string name="tips_refresh">REFRESH</string>
+  <string name="tips_scanning">Scanning…</string>
+  <string name="tips_speed">ROTATION SPEED\n</string>
+  <string name="tips_temp">TEMPERATURE\n</string>
+  <string name="tips_up">UP/\nTEMP SENSOR</string>
+</resources>
